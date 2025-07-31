@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oskar</h1>
 <h3 align="center">A passionate frontend/full stack developer from Denmark</h3>
 
-- 🌱 I’m currently learning **React, React Native and Nest.js**
+- 🌱 I’m currently working with **Next.js, React Native and Nest.js**
 
 - 👨‍💻 All of my projects are available at [https://portfolio2025-dq1c.vercel.app/](https://portfolio2025-dq1c.vercel.app/)
 
