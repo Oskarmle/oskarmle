@@ -43,13 +43,6 @@
 
 ---
 
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oskarmle&theme=tokyo-night" alt="activity graph"/>
-</p>
-
----
-
 ### 🔗 Connect with Me
 <p align="left">
 <a href="mailto:omle.eriksen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
