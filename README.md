@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oskar</h1>
-<h3 align="center">Frontend & Full-Stack Developer student from Denmark 🇩🇰</h3>
+<h3 align="center">Frontend & Full-Stack Developer from Denmark 🇩🇰</h3>
 
 ---
 
