@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 🌱 Currently working with **Next.js, React Native, and NestJS**  
 - 🛠 Building projects with a focus on **modern full-stack apps**  
-- 🌍 Check out my portfolio: [portfolio2025-dq1c.vercel.app](https://portfolio2025-dq1c.vercel.app/)  
+- 🌍 Check out my portfolio: [https://portfolio2025-dq1c.vercel.app/](https://portfolio2026-inky.vercel.app/)
 - 📫 Reach me at: **omle.eriksen@gmail.com**
 
 ---
